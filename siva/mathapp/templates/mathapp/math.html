@@ -1,0 +1,59 @@
+<html>
+<head>
+    <title>Mileage Calculator</title>
+    <style>
+        body 
+        {
+            background: grey;
+       
+        }
+        .id1 
+        {
+            text-align: center;
+            color: blue;
+        }
+        .box 
+        {
+            text-align: center;
+            width: 40%;
+            background-color: red;
+            border: solid 6px black;
+            padding: 25px;
+            margin: 60px auto;
+            position:fixed;
+            top:80px;
+            left:350px;
+        }
+        .result 
+        {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+ 
+    <div class="box">
+        <h1 ><u>The Mileage Calculator</u></h1>
+        <h3>SIVA R(25007668)</h3>
+
+        <form method="post">
+            {% csrf_token %}
+            <label>Distance Travelled (km)</label><br>
+            <input type="number" name="distance"><br><br>
+
+            <label>Liters Consumed (L)</label><br>
+            <input type="number" name="liters"><br><br>
+
+            <button type="submit">Calculate</button>
+        </form>
+
+        <div class="result">
+            
+                Mileage: {{ mileage }} km/L
+            
+        </div>
+    </div>
+    
+</body>
+</html>
