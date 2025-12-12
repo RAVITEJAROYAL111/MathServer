@@ -120,15 +120,14 @@ urlpatterns = [
 ```
 
 ## OUTPUT - SERVER SIDE:
-```
-c:\Users\acer\Pictures\Screenshots\Screenshot 2025-12-10 132737.png
-```
+
+![alt text](<Screenshot 2025-12-10 132737.png>)
+
 
 ## OUTPUT - WEBPAGE:
-```
-c:\Users\acer\Pictures\Screenshots\Screenshot 2025-12-10 132747.png
 
-```
+![alt text](<Screenshot 2025-12-10 132747.png>)
+
 
 
 ## RESULT:
