@@ -121,7 +121,7 @@ urlpatterns = [
 
 ## OUTPUT - SERVER SIDE:
 
-![alt text](<Screenshot 2025-12-10 132737.png>)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3b4a2cbe-aa0b-4815-87a9-ae188784ee98" />
 
 
 ## OUTPUT - WEBPAGE:
