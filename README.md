@@ -121,13 +121,11 @@ urlpatterns = [
 
 ## OUTPUT - SERVER SIDE:
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3b4a2cbe-aa0b-4815-87a9-ae188784ee98" />
-
+<img width="780" height="548" alt="Screenshot 2025-12-25 204408" src="https://github.com/user-attachments/assets/379720a9-16c6-4399-9299-894b18d7cf1a" />
 
 ## OUTPUT - WEBPAGE:
 
-![alt text](<Screenshot 2025-12-10 132747.png>)
-
+<img width="910" height="606" alt="Screenshot 2025-12-25 204442" src="https://github.com/user-attachments/assets/7a846865-9447-4121-a821-adfb6a189b55" />
 
 
 ## RESULT:
